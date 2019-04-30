@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 5b1a596728cd185418a633b2e7833f44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3620836338128691995
+    second: playerCloth_0
+  - first:
+      213: -5026793105299168116
+    second: playerCloth_1
+  - first:
+      213: 5810811538087737797
+    second: playerCloth_2
+  - first:
+      213: -5491189407603782565
+    second: playerCloth_3
+  - first:
+      213: -8567374530195182788
+    second: playerCloth_4
+  - first:
+      213: 5345433994342769982
+    second: playerCloth_5
+  - first:
+      213: -3135993889902526019
+    second: playerCloth_6
+  - first:
+      213: 1850296105238769349
+    second: playerCloth_7
+  - first:
+      213: 2315621359647094197
+    second: playerCloth_8
+  - first:
+      213: 6049006760855794735
+    second: playerCloth_9
+  - first:
+      213: 2003173455842657932
+    second: playerCloth_10
+  - first:
+      213: -961613342088859150
+    second: playerCloth_11
+  - first:
+      213: 1574060624940290902
+    second: playerCloth_12
+  - first:
+      213: -5328627644157727334
+    second: playerCloth_13
+  - first:
+      213: -7294466191245290730
+    second: playerCloth_14
+  - first:
+      213: 1982727576426225940
+    second: playerCloth_15
+  - first:
+      213: -2992786247761120194
+    second: playerCloth_16
+  - first:
+      213: 4695929975050786907
+    second: playerCloth_17
+  - first:
+      213: 3373587661742541780
+    second: playerCloth_18
+  - first:
+      213: -1223412561821347875
+    second: playerCloth_19
+  - first:
+      213: -8625717122907261469
+    second: playerCloth_20
+  - first:
+      213: -5035749570712445876
+    second: playerCloth_21
+  - first:
+      213: -5717337728983341879
+    second: playerCloth_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: playerCloth_6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 470
+        width: 515
+        height: 1045
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23a807947b971c4aa6156c71edae497
+      internalID: -3135993889902526019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_7
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1037
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7f6eb7f2b19114bb812c22ad0186a5
+      internalID: 1850296105238769349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_8
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1026
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3814fa7a8e60ff24bbb03d6f6402e748
+      internalID: 2315621359647094197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_9
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1047
+        width: 10
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0d21e1e28797640a621c70367b60e9
+      internalID: 6049006760855794735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_10
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1039
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0115849647521b4981fd111601ec980
+      internalID: 2003173455842657932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_11
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1051
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d3f4c74ef4664f9829947b1c57a67
+      internalID: -961613342088859150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_12
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1034
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8bffd736f2eaa4b9fdc133056fe332
+      internalID: 1574060624940290902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_13
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1019
+        width: 11
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109f73c99aefafd43a0f13b96a3a9b30
+      internalID: -5328627644157727334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_14
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1026
+        width: 6
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf265b9388657164b87db284e214bc52
+      internalID: -7294466191245290730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_15
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1018
+        width: 8
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4f0072facbdd544bf1cd69701007d0
+      internalID: 1982727576426225940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_16
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1015
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a09e1e32d0a40d45949c7965f96463f
+      internalID: -2992786247761120194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_17
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1013
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5a98408d7ec5442a4b241a19685ce0
+      internalID: 4695929975050786907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_18
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1013
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f97e72e61f314b4caf7740cf32ac32d
+      internalID: 3373587661742541780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_19
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1005
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb66278bff64db7438f7cf9dbc804c11
+      internalID: -1223412561821347875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_20
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 899
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc09a9b507eea94880f059b6c8db232
+      internalID: -8625717122907261469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_21
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 690
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c7130d978f3a3499b08323071ceb57
+      internalID: -5035749570712445876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerCloth_22
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 634
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8a6f3a85973f45b99c2dd036a27a8
+      internalID: -5717337728983341879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9764d00562a6cc4eaa1287e46176d18
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
